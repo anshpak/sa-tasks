@@ -2714,8 +2714,7 @@
 											"left": -144,
 											"top": 2112,
 											"width": 112.47412109375,
-											"height": 13,
-											"text": "«Business Worker»"
+											"height": 13
 										},
 										{
 											"_type": "LabelView",
@@ -13621,9 +13620,7 @@
 							}
 						}
 					],
-					"stereotype": {
-						"$ref": "AAAAAAGGxknZm6UCRzk="
-					}
+					"stereotype": ""
 				},
 				{
 					"_type": "UMLUseCase",
